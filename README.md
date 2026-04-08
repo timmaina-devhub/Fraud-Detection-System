@@ -105,14 +105,17 @@ It also highlights the importance of making analytical solutions interpretable a
 
 ---
 
-## 11. Project Structure
+## Project Structure
 
-fraud-detection-system/
+```
+/Customer-Segmentation and churn Prediction
 │
-├── data/                  # Raw and processed datasets
-├── notebooks/             # Jupyter notebooks for EDA, feature engineering, and modeling
-├── models/                # Saved models and evaluation outputs
-├── dashboard/             # Tableau dashboard files
-├── src/                   # (Optional) Scripts for data processing and utilities
-├── requirements.txt       # Project dependencies
-└── README.md              # Project documentation
+├── README.md
+├── fraud-dashboard.png
+├── /data
+├── /notebooks
+└── /dashboard
+```
+## Dashboard Preview
+
+![Dashboard Preview](./fraud-dashboard.png)
